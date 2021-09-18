@@ -1,6 +1,6 @@
 # Computer-Troubleshooting-Guide-v2.0
 
-INSIDE A COMPUTER GUIDE
+INSIDE A COMPUTER GUIDE 
 
 TOPICS:
 
